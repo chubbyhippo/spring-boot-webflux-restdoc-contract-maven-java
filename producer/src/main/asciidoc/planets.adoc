@@ -1,3 +1,0 @@
-# The Planets API
-
-operation::all[]
