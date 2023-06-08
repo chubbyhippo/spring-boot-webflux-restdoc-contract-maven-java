@@ -13,6 +13,7 @@ import org.springframework.test.web.reactive.server.WebTestClient;
         stubsMode = StubRunnerProperties.StubsMode.LOCAL)
 class PlanetStubTests {
 
+    @SuppressWarnings("unused")
     @StubRunnerPort("producer")
     private Integer port;
 
