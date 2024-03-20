@@ -1,7 +1,7 @@
-# The Planets API
+= The Planets API
 
-## get
+== get
 operation::get[]
 
-## post
+== post
 operation::post[]
